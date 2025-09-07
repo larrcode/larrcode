@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Larry
 
-🔒 **Aspiring Cybersecurity Professional** | 🌐 IT-Familiar & Eager to Learn  
+💻 Aspiring Technology Professional | 🌱 IT-Familiar | 📚 Always Learning  
 
 ---
 
 ## 🧭 About Me  
-- 🖥️ Familiar with **basic IT concepts** such as system setup, troubleshooting, and network fundamentals  
-- 🔍 Curious about **how systems are secured** and **how vulnerabilities are discovered and patched**  
-- 🎯 Goal: Develop practical skills in **network defense, secure coding, and threat detection**  
+- 🛠️ Exploring core IT concepts including system setup, troubleshooting, networking, and basic security
+- 🔍 Curious about how technology works and how systems, networks, and applications stay connected and secure
+- 🎯 Goal: Build a strong foundation in IT support, infrastructure, and security basics
+- 🤝 Excited to learn, collaborate, and grow through structured training and hands-on projects 
 
 ---
 
@@ -19,10 +20,9 @@
 
 ---
 ## 🎯 My Learning Goals for 2025  
-- 🛡️ Strengthen understanding of **IT infrastructure and network security**  
-- 🔍 Learn how to **identify and mitigate common cybersecurity risks**  
-- ⚡ Gain hands-on experience through **labs, CTF challenges, and projects**  
-- 📊 Build beginner-friendly cybersecurity projects and share them here  
+- Strengthen IT fundamentals and troubleshooting skills
+- Gain confidence working with common tools and technologies
+- Prepare for entry-level roles in IT and related technical fields
 ---
 
 ## 📫 Let's Connect
