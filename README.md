@@ -1,28 +1,38 @@
 # 👋 Hi, I'm Larry
 
-💻 Aspiring Technology Professional | 🌱 IT-Familiar | 📚 Always Learning  
+🌱 Aspiring IT Professional | 💻 CompTIA Core 1 Certified | 🚀 Entry-Level IT Support & Infrastructure  
 
 ---
 
 ## 🧭 About Me  
-- 🛠️ Exploring core IT concepts including system setup, troubleshooting, networking, and basic security
-- 🔍 Curious about how technology works and how systems, networks, and applications stay connected and secure
-- 🎯 Goal: Build a strong foundation in IT support, infrastructure, and security basics
-- 🤝 Excited to learn, collaborate, and grow through structured training and hands-on projects 
+- ✅ **Completed CompTIA Core 1**: Mastered hardware, software, networking, and mobile device fundamentals  
+- 📈 **On Track for Core 2**: Building advanced troubleshooting, security, and operational skills  
+- 🛠️ Hands-on experience with system setup, networking, virtualization, and basic cybersecurity  
+- 🎯 Targeting IT Support, Help Desk, and Infrastructure internships/entry-level roles  
+- 🤝 Eager to contribute fresh skills and rapid learning ability to growing tech teams  
 
 ---
 
-## 🧰 Tools & Technologies I’m Exploring  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+## 🧰 Core Skills & Technologies  
+![Hardware/Software](https://img.shields.io/badge/Hardware%20%26%20Software-00D4AA?style=flat&logo=windows&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%2C%20DNS-00B0F0?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=white)
 
 ---
-## 🎯 My Learning Goals for 2025  
-- Strengthen IT fundamentals and troubleshooting skills
-- Gain confidence working with common tools and technologies
-- Prepare for entry-level roles in IT and related technical fields
+
+## 📈 2026 Career Goals  
+- Secure IT internship or entry-level Help Desk/Support role  
+- Expand into cloud infrastructure (Azure/AWS) and cybersecurity fundamentals  
+- Build real-world projects showcasing troubleshooting and automation skills  
+- Achieve Core 2 certification by Q2 2026  
+
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
+
+---
+*Currently seeking IT internships and entry-level opportunities. Open to hands-on projects and mentorship!*
