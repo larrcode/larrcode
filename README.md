@@ -8,7 +8,7 @@
 ## 🧭 About Me
 - 🏅 **CompTIA A+ Certified**: Validated expertise across Core 1 and Core 2, covering hardware, networking, operating systems, advanced operational troubleshooting, and security infrastructure.
 - 🎓 **Technical Training**: Graduate of the intensive **Per Scholas IT Support** program and trained through **Year Up United**, mastering hands-on enterprise troubleshooting and system administration.
-- 🛠️ **Academic Foundation**: Currently pursuing an Information Technology concentration at **WGU**.
+- 🛠️ **Academic Foundation**: Currently pursuing an Information Technology concentration at **Bunker-hill community college**.
 - 🎯 **The Goal**: Targeting IT Support, Help Desk, and Infrastructure/Cybersecurity entry-level roles or internships.
 
 ---
