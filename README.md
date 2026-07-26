@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Larry 
+c# 👋 Hi, I'm Larry 
 
 🌱 **IT Support Specialist & Cybersecurity Aspirant**  
 💻 **CompTIA A+ Certified** | 🚀 Entry-Level IT Support, Infrastructure, & Network Security  
@@ -7,7 +7,7 @@
 
 ## 🧭 About Me
 - 🏅 **CompTIA A+ Certified**: Validated expertise across Core 1 and Core 2, covering hardware, networking, operating systems, advanced operational troubleshooting, and security infrastructure.
-- 🎓 **Technical Training**: Graduate of the intensive **Per Scholas IT Support** program and trained through **Year Up United**, mastering hands-on enterprise troubleshooting and system administration.
+- 🎓 **Technical Training**: Graduate of the intensive **Per Scholas IT Support** program, mastering hands-on enterprise troubleshooting and system administration.
 - 🛠️ **Academic Foundation**: Currently pursuing an Information Technology concentration at **Bunker-hill community college**.
 - 🎯 **The Goal**: Targeting IT Support, Help Desk, and Infrastructure/Cybersecurity entry-level roles or internships.
 
@@ -46,9 +46,8 @@
 
 ## 🛠️ Featured Technical Projects
 
-### 🔒 [Secure File Transfer Application (Group Project)](https://github.com/larrcode)
-* **Overview:** Acted as **Group Project Leader** for a team of 5 to design a resilient, secure end-to-end encrypted protocol for transferring sensitive files.
-* **Impact:** Accomplished secure, robust delivery of over 1,000 files with validated positive feedback from a 500+ user beta pool.
+### 🔒 [Secure File Transfer Application](https://github.com/larrcode)
+* **Overview:** Built end-to-end encryption for secure transmission of files between endpoints.
 * **Tech Stack:** Python, Golang, ARM64 Assembly, Wireshark.
 
 ### 🔑 [Password Security Hashing Demo](https://github.com/larrcode)
@@ -60,6 +59,10 @@
 * **Overview:** Developed a security monitoring script designed to safeguard directory trees from unauthorized modifications, baseline tampering, or malware injection.
 * **Impact:** Automated the generation of baseline SHA-256 cryptographic hashes for target environments, running ongoing cross-examinations to catch real-time system alterations.
 * **Tech Stack:** Python, hashlib, Git.
+
+### 🚨 [SSH Failed Login Monitor](https://github.com/larrcode/login-monitor)
+* **Overview:** Bash script that tails Linux authentication logs in real time and flags failed SSH login attempts — a lightweight, first-pass intrusion detection tool.
+* **Tech Stack:** Bash, tail, grep.
 
 ### ☁️ [Cloud Server Setup & Configuration](https://github.com/larrcode)
 * **Overview:** Built an environment testing deployment pipeline to get hands-on familiarity with core cloud infrastructure topologies.
@@ -80,4 +83,3 @@
 - 💼 **LinkedIn**: [Your Custom Profile Link Here]
 
 *Currently seeking entry-level IT Support, Help Desk positions, and Cybersecurity internships. Let's build something secure together!*
-#
