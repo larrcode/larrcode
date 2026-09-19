@@ -1,4 +1,4 @@
-c# 👋 Hi, I'm Larry 
+# 👋 Hi, I'm Larry
 
 🌱 **IT Support Specialist & Cybersecurity Aspirant**  
 💻 **CompTIA A+ Certified** | 🚀 Entry-Level IT Support, Infrastructure, & Network Security  
@@ -8,17 +8,17 @@ c# 👋 Hi, I'm Larry
 ## 🧭 About Me
 - 🏅 **CompTIA A+ Certified**: Validated expertise across Core 1 and Core 2, covering hardware, networking, operating systems, advanced operational troubleshooting, and security infrastructure.
 - 🎓 **Technical Training**: Graduate of the intensive **Per Scholas IT Support** program, mastering hands-on enterprise troubleshooting and system administration.
-- 🛠️ **Academic Foundation**: Currently pursuing an Information Technology concentration at **Bunker-hill community college**.
-- 🎯 **The Goal**: Targeting IT Support, Help Desk, and Infrastructure/Cybersecurity entry-level roles or internships.
+- 🛠️ **Academic Foundation**: Currently pursuing a **Bachelor of Science in Information Technology** at **Western Governors University (WGU)**.
+- 🎯 **The Goal**: Targeting IT Support, Help Desk, and Infrastructure or Cybersecurity entry-level roles or internships.
 
 ---
 
 ## 🧰 Technical Skills & Tools
 
 ### 🖥️ Systems & Infrastructure
-![Windows](https://img.shields.io/badge/Windows_&_Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu/Kali/ParrotOS)-FCC624?style=flat&logo=linux&logoColor=black)
-![Virtualization](https://img.shields.io/badge/Virtualization_(VirtualBox/VMware)-007ACC?style=flat&logo=virtualbox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_%26_Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu,_Kali,_ParrotOS)-FCC624?style=flat&logo=linux&logoColor=black)
+![Virtualization](https://img.shields.io/badge/Virtualization_(VirtualBox,_VMware)-007ACC?style=flat&logo=virtualbox&logoColor=white)
 
 ### 🌐 Networking & Enterprise IT
 ![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-00B0F0?style=flat&logo=cisco&logoColor=white)
@@ -40,7 +40,7 @@ c# 👋 Hi, I'm Larry
 - 📜 **CodePath Cybersecurity Credential** (Issued Dec 2025)
 - 🌐 **Cisco Networking Academy** (Cybersecurity, Linux Essentials, Networking Fundamentals)
 - 🛠️ **Atlassian IT Service Management (ITSM)**
-- 🛡️ **ISC² Certified in Cybersecurity (CC)** *(In Progress / Target)*
+- 🛡️ **ISC² Certified in Cybersecurity (CC)** *(In Progress)*
 
 ---
 
@@ -61,7 +61,7 @@ c# 👋 Hi, I'm Larry
 * **Tech Stack:** Python, hashlib, Git.
 
 ### 🚨 [SSH Failed Login Monitor](https://github.com/larrcode/login-monitor)
-* **Overview:** Bash script that tails Linux authentication logs in real time and flags failed SSH login attempts — a lightweight, first-pass intrusion detection tool.
+* **Overview:** Bash script that tails Linux authentication logs in real time and flags failed SSH login attempts. A lightweight, first-pass intrusion detection tool.
 * **Tech Stack:** Bash, tail, grep.
 
 ### ☁️ [Cloud Server Setup & Configuration](https://github.com/larrcode)
@@ -73,13 +73,13 @@ c# 👋 Hi, I'm Larry
 
 ## 📈 Next Milestones (Late 2026)
 - 🎯 **CompTIA Network+ Certification** (Targeting completion by Q4 2026)
-- ☁️ **Cloud Architecture Foundations** (Deep-diving into enterprise Azure/AWS environments)
+- ☁️ **Cloud Architecture Foundations** (Deep-diving into enterprise Azure and AWS environments)
 - 🤖 **Automation**: Building out automated incident-response and desktop deployment scripts via Python and Bash.
 
 ---
 
 ## 📫 Let's Connect
 - 📧 **Email**: [larry697@proton.me](mailto:larry697@proton.me)
-- 💼 **LinkedIn**: [Your Custom Profile Link Here]
+- 💼 **LinkedIn**: [linkedin.com/in/larry-gutierrez-433482390](https://www.linkedin.com/in/larry-gutierrez-433482390)
 
 *Currently seeking entry-level IT Support, Help Desk positions, and Cybersecurity internships. Let's build something secure together!*
