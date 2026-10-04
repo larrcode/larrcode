@@ -80,6 +80,6 @@
 
 ## 📫 Let's Connect
 - 📧 **Email**: [larry697@proton.me](mailto:larry697@proton.me)
-- 💼 **LinkedIn**: [linkedin.com/in/larry-gutierrez-433482390](https://www.linkedin.com/in/larry-gutierrez-433482390)
+- 💼 **LinkedIn**: [www.linkedin.com/in/larrg)
 
 *Currently seeking entry-level IT Support, Help Desk positions, and Cybersecurity internships. Let's build something secure together!*
