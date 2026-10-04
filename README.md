@@ -33,10 +33,6 @@ Script that generates baseline SHA-256 hashes for a directory and compares them 
 Encrypted file transfer between two endpoints.
 **Stack:** Python, Go, ARM64 Assembly, Wireshark
 
-## Community Service
-
-**St. Anthony's Parish, Youth Group Volunteer (2018 to 2020).** Organized youth group events and coordinated holiday food setups for the community.
-
 ## Skills
 
 - **Languages and tools:** Python, Bash, Git
