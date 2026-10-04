@@ -1,85 +1,64 @@
-# 👋 Hi, I'm Larry
+# Hi, I'm Larry Gutierrez
 
-🌱 **IT Support Specialist & Cybersecurity Aspirant**  
-💻 **CompTIA A+ Certified** | 🚀 Entry-Level IT Support, Infrastructure, & Network Security  
+Entry-level technical builder. I build small tools with Python, Bash, and Claude, document them, and explain them to non-technical people.
 
----
+## About Me
 
-## 🧭 About Me
-- 🏅 **CompTIA A+ Certified**: Validated expertise across Core 1 and Core 2, covering hardware, networking, operating systems, advanced operational troubleshooting, and security infrastructure.
-- 🎓 **Technical Training**: Graduate of the intensive **Per Scholas IT Support** program, mastering hands-on enterprise troubleshooting and system administration.
-- 🛠️ **Academic Foundation**: Currently pursuing a **Bachelor of Science in Information Technology** at **Western Governors University (WGU)**.
-- 🎯 **The Goal**: Targeting IT Support, Help Desk, and Infrastructure or Cybersecurity entry-level roles or internships.
+- **Anthropic** AI Fluency: Framework and Foundations, and Claude Platform 101
+- **CompTIA A+** certified (Core 1 and Core 2)
+- **Per Scholas** IT Support Training graduate
+- Enrolled in the **BS in Information Technology at Western Governors University**, starting November 2026
+- Languages: English and Spanish (fluent)
 
----
+## Working with Claude
 
-## 🧰 Technical Skills & Tools
+### [intake-triage](https://github.com/larrcode/intake-triage)
+A desktop tool where Claude drafts a category and a response for an incoming request. Nothing is saved or sent until a person reviews and approves it. A separate append-only audit log records every AI suggestion and every human edit, so the whole process stays traceable.
 
-### 🖥️ Systems & Infrastructure
-![Windows](https://img.shields.io/badge/Windows_%26_Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(Ubuntu,_Kali,_ParrotOS)-FCC624?style=flat&logo=linux&logoColor=black)
-![Virtualization](https://img.shields.io/badge/Virtualization_(VirtualBox,_VMware)-007ACC?style=flat&logo=virtualbox&logoColor=white)
+## Tools I've Built
 
-### 🌐 Networking & Enterprise IT
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-00B0F0?style=flat&logo=cisco&logoColor=white)
-![ITSM](https://img.shields.io/badge/ITSM%20%26%20Collaboration-Atlassian%20Jira%20%7C%20Slack%20%7C%20Teams-0052CC?style=flat&logo=atlassian&logoColor=white)
+### [SSH Failed Login Monitor](https://github.com/larrcode/login-monitor)
+Bash script that tails Linux authentication logs in real time and flags failed SSH login attempts. A lightweight, first-pass intrusion detection tool.
+**Stack:** Bash, tail, grep
 
-### 🛡️ Cybersecurity Tools
-![Cyber Tools](https://img.shields.io/badge/Cyber%20Tools-Wireshark%20%7C%20CyberChef%20%7C%20OSINT-FF6600?style=flat&logo=wireshark&logoColor=white)
+### [Password Security Hashing Demo](https://github.com/larrcode/password-hashing-demo)
+A solo project demonstrating basic defenses against credential theft and brute-force attacks. Uses SHA-256 and bcrypt to generate, verify, and document salted hashes.
+**Stack:** Python, bcrypt, hashlib, Git
 
-### 📜 Scripting & Data
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-111111?style=flat&logo=git&logoColor=white)
+### [File Integrity Checker](https://github.com/larrcode/file-integrity-checker)
+Script that generates baseline SHA-256 hashes for a directory and compares them on later runs to detect unauthorized changes.
+**Stack:** Python, hashlib, Git
 
----
+### [Secure File Transfer](https://github.com/larrcode/secure-file-transfer)
+Encrypted file transfer between two endpoints.
+**Stack:** Python, Go, ARM64 Assembly, Wireshark
 
-## 📜 Professional Credentials
-- 🎖️ **CompTIA A+** (Fully Certified)
-- 📜 **CodePath Cybersecurity Credential** (Issued Dec 2025)
-- 🌐 **Cisco Networking Academy** (Cybersecurity, Linux Essentials, Networking Fundamentals)
-- 🛠️ **Atlassian IT Service Management (ITSM)**
-- 🛡️ **ISC² Certified in Cybersecurity (CC)** *(In Progress)*
+## Community Service
 
----
+**St. Anthony's Parish, Youth Group Volunteer (2018 to 2020).** Organized youth group events and coordinated holiday food setups for the community.
 
-## 🛠️ Featured Technical Projects
+## Skills
 
-### 🔒 [Secure File Transfer Application](https://github.com/larrcode)
-* **Overview:** Built end-to-end encryption for secure transmission of files between endpoints.
-* **Tech Stack:** Python, Golang, ARM64 Assembly, Wireshark.
+- **Languages and tools:** Python, Bash, Git
+- **Systems:** Linux command line, Windows troubleshooting, Windows Server and Active Directory (homelab), VirtualBox
+- **IT support:** hardware, software, and network troubleshooting; ticket handling and documentation
 
-### 🔑 [Password Security Hashing Demo](https://github.com/larrcode)
-* **Overview:** A solo implementation demonstrating fundamental cryptographic defenses against credential theft and brute-force vectors.
-* **Impact:** Built a secure local mechanism parsing and utilizing user-inputted strings, leveraging `SHA-256` and `bcrypt` libraries to safely generate, verify, and document salt-and-hash sequences.
-* **Tech Stack:** Python, bcrypt, hashlib, Git.
+## Credentials
 
-### 🛡️ [File Integrity Checker](https://github.com/larrcode)
-* **Overview:** Developed a security monitoring script designed to safeguard directory trees from unauthorized modifications, baseline tampering, or malware injection.
-* **Impact:** Automated the generation of baseline SHA-256 cryptographic hashes for target environments, running ongoing cross-examinations to catch real-time system alterations.
-* **Tech Stack:** Python, hashlib, Git.
+- Anthropic: AI Fluency: Framework and Foundations; Claude Platform 101
+- CompTIA A+
+- CodePath Intro to Cybersecurity (December 2025)
+- Cisco Networking Academy: Cybersecurity, Linux Essentials, Networking Fundamentals
+- Atlassian IT Service Management (ITSM)
+- ISC2 Certified in Cybersecurity (CC): in progress
 
-### 🚨 [SSH Failed Login Monitor](https://github.com/larrcode/login-monitor)
-* **Overview:** Bash script that tails Linux authentication logs in real time and flags failed SSH login attempts. A lightweight, first-pass intrusion detection tool.
-* **Tech Stack:** Bash, tail, grep.
+## Next
 
-### ☁️ [Cloud Server Setup & Configuration](https://github.com/larrcode)
-* **Overview:** Built an environment testing deployment pipeline to get hands-on familiarity with core cloud infrastructure topologies.
-* **Impact:** Deployed and locked down a basic Linux server instance, configured safe remote management architectures using SSH key pairs, and executed standard application environment updates.
-* **Tech Stack:** Linux, SSH, Cloud Networking.
+- CompTIA Network+ and Security+ through WGU
+- Python and Bash scripts for incident response and desktop deployment
+- Longer term, I'm interested in a career in cybersecurity
 
----
+## Contact
 
-## 📈 Next Milestones (Late 2026)
-- 🎯 **CompTIA Network+ Certification** (Targeting completion by Q4 2026)
-- ☁️ **Cloud Architecture Foundations** (Deep-diving into enterprise Azure and AWS environments)
-- 🤖 **Automation**: Building out automated incident-response and desktop deployment scripts via Python and Bash.
-
----
-
-## 📫 Let's Connect
-- 📧 **Email**: [larry697@proton.me](mailto:larry697@proton.me)
-- 💼 **LinkedIn**: [www.linkedin.com/in/larrg)
-
-*Currently seeking entry-level IT Support, Help Desk positions, and Cybersecurity internships. Let's build something secure together!*
+- Email: larrygutierrez.tech@gmail.com
+- LinkedIn: [linkedin.com/in/larrg](https://www.linkedin.com/in/larrg)
