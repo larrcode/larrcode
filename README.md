@@ -56,5 +56,5 @@ Encrypted file transfer between two endpoints.
 
 ## Contact
 
-- Email: larrygutierrez.tech@gmail.com
+- Email: larry697@proton.me
 - LinkedIn: [linkedin.com/in/larrg](https://www.linkedin.com/in/larrg)
